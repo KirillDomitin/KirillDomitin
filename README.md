@@ -10,8 +10,8 @@
 
 - **Языки программирования:** Python, SQL, Bash
 - **Big Data:** Apache Spark, PySpark, Hadoop
-- **Базы данных:** PostgreSQL, Redis
-- **Backend:** FastAPI (начальный уровень), Flask
+- **Базы данных:** PostgreSQL, Redis, ElasticSearch, MongoDB
+- **Backend:** FastAPI, Flask, Django
 - **Инфраструктура и DevOps:** Docker, GitHub Actions, Linux, Git
 - **Инструменты анализа данных:** Pandas, NumPy, JupyterLab
 
